@@ -86,53 +86,44 @@ Chose appropriate visualization types based on the nature of the data and the in
 - **Dot Ball % :** Percentage of dot balls bowled by a bowler.
 
 # Key Findings 🔍
-**1. Revenue Generation by City and Month:**
-- Mumbai generated the highest revenue of 660.64M, particularly in May, compared to other cities.
-- Delhi generated the lowest revenue of 290.92M, particularly in July, compared to other cities.
+**1. Best Performers by Player Role:**
+**Openers / Power Hitters:**
+- Jos Buttler and Rilee Rossouw are the best Openers by Batting Average, Batting S/R, Average Balls Faced, Boundary %.
 
-**2. Revenue by Room Type:**
-- The "Elite" room type generated the highest revenue of 553.74M overall, whereas the "Standard" room type generated the lowest revenue of 305.64M.
+**Middle Order Batters / Anchors:**
+- Virat Kohli, Suryakumar Yadav, and Glenn Phillips are the best Middle Order Batters by Batting Average, Batting S/R, Average Balls Faced, Boundary %.
 
-**3. Monthly Revenue Trends:**
-- Total revenue peaked in May and declined in July.
+**Finishers:**
+- Marcus Stoinis and Sikandar Raza are the best Finishers by Batting Average, Batting S/R, Economy, Bowling S/R.
 
-**4. Revenue per Available Room (RevPAR):**
-- Mumbai had the highest RevPAR of 8897, while Hyderabad had the lowest RevPAR of 5405.
-- The "Presidential" room type had the highest RevPAR of 13858, while the "Standard" room type had the lowest RevPAR of 4652.
-- RevPAR peaked in May and declined in July.
-- Overall, RevPAR was higher on weekends than on weekdays.
+**All Rounders:**
+- Rashid Khan and Shadab Khan are the best All Rounders by Batting Average, Batting S/R, Economy, Bowling S/R.
 
-**5. Occupancy Percentage:**
-- Delhi had the highest occupancy percentage of 60.44%, whereas Bangalore had the lowest occupancy percentage of 55.68%.
-- The "Presidential" room type had the highest occupancy percentage of 59.14%, while the "Premium" room type had the lowest occupancy percentage of 57.49%.
-- Occupancy percentage peaked in May and declined in July.
-- Overall, occupancy percentage was higher on weekends (Friday and Saturday) than on weekdays.
+**Specialist Fast Bowlers:**
+- Sam Curran, Anrich Nortje, and Shaheen Shah Afridi are the best Specialist Fast Bowlers by Bowling Average, Bowling S/R, Economy, Dot Ball %.
 
-**6. Revenue Contribution by Category:**
-- The "Luxury" category contributed 61% to total revenue generation, surpassing the "Business" category.
+**2. Individual Record Holders in T20 CWC 2022:**
+**Batting Records**
+- Virat Kohli has the highest Batting Average among all batters.
+- Suryakumar Yadav has the highest Batting S/R among all batters.
+- Steven Smith has the highest Boundary % among all batters.
+
+**Bowling Records:**
+- Glen Maxwell has the lowest Bowling Average among all bowlers.
+- Afif Hossain has the lowest Bowling S/R among all bowlers.
+- Nasum Ahmed has the lowest Economy among all bowlers.
+- Bhuvneshwar Kumar has the highest Dot Ball % among all bowlers.
 
 # Impact 🌟
-By implementing this project, hospitality businesses can expect to:
-- Improve understanding of customer behavior and preferences.
-- Enhance strategic decision-making based on real-time insights.
-- Optimize pricing strategies to maximize revenue per available room.
-- Identify and capitalize on revenue growth opportunities.
-
-# Recommendations 💡
-Based on the analysis of revenue insights, the following recommendations are proposed to enhance revenue performance in the hospitality industry:
-
-**1. Optimize Pricing Strategies :** Implement dynamic pricing models based on demand fluctuations and market trends to maximize revenue.
-
-**2. Customer segmentation :** Segment customers based on spending patterns and preferences to tailor marketing efforts and enhance customer loyalty.
-
-**3. Inventory Optimization :** Optimize inventory management processes to minimize revenue leakage and maximize utilization of available resources.
-
-**4. Enhance Customer Experience :** Identify opportunities to enhance the overall customer experience through personalized offerings, loyalty programs, and service improvements.
-
-**5. Improve Operational Efficiency :** Identify operational inefficiencies and cost-saving opportunities to improve profitability.
+By leveraging the Cricket Analytics Dashboard, cricket teams and stakeholders can expect to:
+- Enhance player and team performance through data-driven insights.
+- Make informed selection decisions and strategic game plans.
+- Make an unbeatable team by using the reference of Final 11.
+- Gain a competitive edge by exploiting opponent weaknesses and capitalizing on strengths.
+- Achieve performance goals and objectives with greater precision and efficiency.
 
 # Conclusion 📝
-The analysis reveals significant insights into revenue generation dynamics across cities, room types, and timeframes. Mumbai's leading revenue performance and the dominance of the "Elite" and "Presidential" room types indicate potential areas for targeted marketing and service enhancement. The seasonal peak in May suggests opportunities for promotional strategies during this period. The higher weekend performance across various metrics underlines the importance of weekend-specific pricing and offers. By leveraging these insights, AtliQ Grands can make informed decisions to regain market share and boost revenue.
+In conclusion, the analysis highlights the standout performers in T20 CWC 2022 across various player roles. Jos Buttler and Rilee Rossouw excelled as openers, while Virat Kohli, Suryakumar Yadav, and Glenn Phillips dominated the middle order. Marcus Stoinis and Sikandar Raza emerged as top finishers, and Rashid Khan along with Shadab Khan shone as all-rounders. Among specialist fast bowlers, Sam Curran, Anrich Nortje, and Shaheen Shah Afridi were exceptional. Notably, Virat Kohli led with the highest batting average, Suryakumar Yadav with the highest strike rate, and Steven Smith with the highest boundary percentage. In bowling, Glen Maxwell, Afif Hossain, Nasum Ahmed, and Bhuvneshwar Kumar set records in average, strike rate, economy, and dot ball percentage, respectively.
 
 # Relevant Links 🔗
 <a href="https://www.linkedin.com/posts/tushar-dk_dataanalytics-businessintelligence-powerbi-activity-7221614869752483841-s62D?utm_source=share&utm_medium=member_desktop">LinkedIn Post
