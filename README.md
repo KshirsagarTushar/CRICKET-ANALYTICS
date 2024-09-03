@@ -11,7 +11,7 @@ Sports Analytics
 Microsoft Power BI
 
 # Dashboard 📊
-<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
+<a href="https://www.novypro.com/project/cricket-analytics-3">Cricket Analytics
 
 # Video 🎬
 <a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
@@ -128,4 +128,4 @@ In conclusion, the analysis highlights the standout performers in T20 CWC 2022 a
 # Relevant Links 🔗
 <a href="https://www.linkedin.com/posts/tushar-dk_dataanalytics-businessintelligence-powerbi-activity-7221614869752483841-s62D?utm_source=share&utm_medium=member_desktop">LinkedIn Post
 
-<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">NovyPro.com (Revenue Insights - Hospitality)
+<a href="https://www.novypro.com/project/cricket-analytics-3">NovyPro.com (Cricket Analytics)
