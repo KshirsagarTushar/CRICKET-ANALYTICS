@@ -87,6 +87,7 @@ Chose appropriate visualization types based on the nature of the data and the in
 
 # Key Findings 🔍
 **1. Best Performers by Player Role:**
+
 **Openers / Power Hitters:**
 - Jos Buttler and Rilee Rossouw are the best Openers by Batting Average, Batting S/R, Average Balls Faced, Boundary %.
 
@@ -103,6 +104,7 @@ Chose appropriate visualization types based on the nature of the data and the in
 - Sam Curran, Anrich Nortje, and Shaheen Shah Afridi are the best Specialist Fast Bowlers by Bowling Average, Bowling S/R, Economy, Dot Ball %.
 
 **2. Individual Record Holders in T20 CWC 2022:**
+
 **Batting Records**
 - Virat Kohli has the highest Batting Average among all batters.
 - Suryakumar Yadav has the highest Batting S/R among all batters.
