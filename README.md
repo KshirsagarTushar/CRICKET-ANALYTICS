@@ -105,7 +105,7 @@ Chose appropriate visualization types based on the nature of the data and the in
 
 **2. Individual Record Holders in T20 CWC 2022:**
 
-**Batting Records**
+**Batting Records:**
 - Virat Kohli has the highest Batting Average among all batters.
 - Suryakumar Yadav has the highest Batting S/R among all batters.
 - Steven Smith has the highest Boundary % among all batters.
