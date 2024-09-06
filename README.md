@@ -13,9 +13,6 @@ Microsoft Power BI
 # Dashboard 📊
 <a href="https://www.novypro.com/project/cricket-analytics-3">Cricket Analytics
 
-# Video 🎬
-<a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
-
 # Sections 📂
 - Project Objective
 - Data Overview
@@ -128,6 +125,4 @@ By leveraging the Cricket Analytics Dashboard, cricket teams and stakeholders ca
 In conclusion, the analysis highlights the standout performers in T20 CWC 2022 across various player roles. Jos Buttler and Rilee Rossouw excelled as openers, while Virat Kohli, Suryakumar Yadav, and Glenn Phillips dominated the middle order. Marcus Stoinis and Sikandar Raza emerged as top finishers, and Rashid Khan along with Shadab Khan shone as all-rounders. Among specialist fast bowlers, Sam Curran, Anrich Nortje, and Shaheen Shah Afridi were exceptional. Notably, Virat Kohli led with the highest batting average, Suryakumar Yadav with the highest strike rate, and Steven Smith with the highest boundary percentage. In bowling, Glen Maxwell, Afif Hossain, Nasum Ahmed, and Bhuvneshwar Kumar set records in average, strike rate, economy, and dot ball percentage, respectively.
 
 # Relevant Links 🔗
-<a href="https://www.linkedin.com/posts/tushar-dk_dataanalytics-businessintelligence-powerbi-activity-7221614869752483841-s62D?utm_source=share&utm_medium=member_desktop">LinkedIn Post
-
 <a href="https://www.novypro.com/project/cricket-analytics-3">NovyPro.com (Cricket Analytics)
