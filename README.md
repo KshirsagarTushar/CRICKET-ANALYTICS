@@ -1,9 +1,6 @@
 # CRICKET ANALYTICS
 The "Cricket Analytics" project provides an in-depth analysis of the T20 Cricket World Cup 2022, focusing on player performance, match statistics, and strategic trends. Utilizing data transformation, modeling, and advanced DAX formulas, this project processed comprehensive datasets to extract actionable insights. The dashboard tracks critical metrics such as batting average, batting strike rate, economy, and bowling strike rate, offering a clear view of player efficiency and team dynamics. Through interactive visualizations, the project benchmarks team and player performance, compares opponent strategies, and highlights key performers, helping teams make data-driven decisions to enhance on-field performance.
 
-# Technology 🖥️
-Business Intelligence
-
 # Domain 🌐
 Sports Analytics
 
